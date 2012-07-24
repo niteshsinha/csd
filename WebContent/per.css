@@ -1,0 +1,306 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+
+
+body {
+	background: #521b35;
+	background-image: url(images4/pat.jpg);
+	background-repeat: repeat-x ;
+	color: #787878;
+}
+
+h1, h2, h3 {
+	color: #000000;
+}
+
+a {
+	color: #787878;
+}
+
+#wrapper {
+	background: #FFFFFF;
+}
+
+/*----------------------------------------------------*/
+
+/* { main */
+
+#main
+{
+	background-image: url(images4/devmain.png);
+	background-repeat: repeat-y;
+}
+
+/* main } */
+
+/*----------------------------------------------------*/
+
+#enter
+{
+	background-image: url(images4/abc.png);
+	background-repeat: no-repeat;
+}
+
+/*----------------------------------------------------*/
+
+/* { headerimg */
+
+#headerimg
+{
+	background: url(images4/head1.png);
+}
+
+/* headerimg } */
+
+/*----------------------------------------------------*/
+
+/* { mainmenu */
+
+#mainmenu
+{
+	background-image: url(images4/mainmenu.gif);
+	background-repeat: repeat-x;
+}
+
+#mainmenu td a
+{
+	color: #fdfdfd;
+}
+
+#mainmenu td a:hover
+{
+	color: #f0f0f0;
+}
+
+/* mainmenu } */
+
+/*----------------------------------------------------*/
+
+/* { home */
+#home
+{
+	background-image: url(images4/homeback.gif);
+	background-repeat: no-repeat;
+}
+#home tc
+{
+	background-repeat: no-repeat;
+}
+/* home } */
+
+/*----------------------------------------------------*/
+
+/* { foot */
+#foot
+{
+	background-image: url(images4/foot.gif);
+	background-repeat: no-repeat;
+}
+
+#foot a
+{
+	color: #fdfdfd;
+}
+
+#foot a:hover
+{
+	color: #f0f0f0;
+}
+
+/*  foot } */
+
+/*----------------------------------------------------*/
+
+/* { basic content form */
+
+#head
+{
+	background-image:url(images4/title.gif);
+}
+
+#head strong
+{
+	color: white;
+}
+
+#content
+{
+	background-image:url(images4/content.gif);
+}
+
+#closer
+{
+	background-image:url(images4/closer.gif);
+}
+
+/*----------------------------------------------------*/
+
+/* { customer */
+
+#cusmenu
+{
+	background-image:url(images4/cusMenu.gif);
+	background-repeat:no-repeat;
+}
+
+#cusmenu td a
+{
+	color: #fdfdfd;
+}
+#cusmenu td a:hoverb
+{
+	color: #f0f0f0;
+}
+
+#cusedit
+{
+	background-image:url(images4/editProf.gif);
+	background-repeat:no-repeat;
+}
+
+#cusedit a
+{
+	color: #fdfdfd;
+}
+
+#cusedit a:hover
+{
+	color: #f0f0f0;
+}
+
+/*----------------------------------------------------*/
+
+/* { Employe */
+
+#empmenu
+{
+	background-image:url(images4/cusMenu.gif);
+	background-repeat:no-repeat;
+}
+
+#empmenu td a
+{
+	color: #5D5F53;
+}
+#empmenu td a:hover
+{
+	color: #6B7E09;
+}
+
+#empedit
+{
+	background-image:url(images4/editProf.gif);
+	background-repeat:no-repeat;
+}
+
+/*----------------------------------------------------*/
+
+/* { Admin_tabs */
+
+#tabsC
+{
+	width:100%;
+	background:#edf7e7;
+    font-size:93%;
+    line-height:normal;
+}
+
+#tabsC ul
+{
+	margin:0;
+    padding:5px 10px 0 180px;
+	list-style:none;
+}
+
+#tabsC li
+{
+	display:inline;
+    margin:0;
+    padding:0;
+}
+
+#tabsC a
+{
+	float:left;
+    background:url("images4/tableftC.gif") no-repeat left top;
+    margin:0;
+    padding:0 0 0 4px;
+    text-decoration:none;
+}
+
+#tabsC a span
+{
+	float:left;
+    display:block;
+    background:url("images4/tabrightC.gif") no-repeat right top;
+    padding:5px 15px 4px 6px;
+    color:#464E42;
+}
+
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+
+#tabsC a span
+{
+	float:none;
+}
+    
+/* End IE5-Mac hack */
+
+#tabsC a:hover span
+{
+	color:#FFF;
+}
+
+#tabsC a:hover
+{
+	background-position:0% -42px;
+}
+
+#tabsC a:hover span
+{
+	background-position:100% -42px;
+}
+
+#tabsC #current a
+{
+	background-position:0% -42px;
+}
+ 
+#tabsC #current a span
+{
+	background-position:100% -42px;
+}
+/*----------------------------------------------------*/
+
+/* { basic report content form */
+
+#rpthead
+{
+	background-image:url(images4/rpthead.png);
+	height: 41px;
+}
+
+#rpthead strong
+{
+	font-size: 18px;
+	color: #c5c5c5;
+	float: left;
+	padding-top: 13px;
+	padding-left: 17px;
+}
+
+#rptcontent 
+{
+	background-image:url(images4/rptcontent.png);
+	background-repeat: repeat-y;
+}
+
+#rptcloser
+{
+	background-image:url(images4/rptcloser.png);
+	height: 22px;
+}
